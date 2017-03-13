@@ -1,5 +1,8 @@
 _repo: The-Book-of-Snobs_2686
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -16,6 +19,8 @@ description: Thackeray originated the modern meaning of the word snob" in a seri
   in this volume. With the organizational drive of a naturalist, Thackeray classifies
   the varied manifestations of snobbery in society many of which remain all too common
   today.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2686#The-Book-of-Snobs
 gutenberg_issued: '2006-05-25'
 gutenberg_type: Text
 identifiers:
